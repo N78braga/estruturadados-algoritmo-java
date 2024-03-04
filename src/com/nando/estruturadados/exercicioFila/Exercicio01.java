@@ -1,4 +1,4 @@
-package exercicioFila;
+package com.nando.estruturadados.exercicioFila;
 
 import com.nando.estruturadados.fila.Fila;
 

@@ -1,4 +1,4 @@
-package exercicioFila;
+package com.nando.estruturadados.exercicioFila;
 
 public class Documento {
     private  String  nome;
